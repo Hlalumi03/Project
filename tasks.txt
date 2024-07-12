@@ -1,0 +1,34 @@
+
+taskList = {
+  task1 = {
+    "task_name:" : "Username generator",
+    "description:" : "a program that takes in the persons name, surname and takes the last 3 letters of the name and first 3 letters of the surname.",
+    "due date:" : "11/07/2024",
+    "completed:" : "yes/no"
+  }
+  task2 = {
+    "task_name:" : "Basic calculator",
+    "description:" : "a program that builds a calculator.",
+    "due date:" "08/07/2024",
+    "completed:" : "yes/no"
+  }
+  task3 = {
+    "task_name:" : "BMI calculator",
+    "description:" : "a program that takes in the persons body max index, calculates it and tells them if they obess or not, if true tell them how much they have to loose and if false and less tell them how much they should gain.",
+    "due date:" : 09/07/2024,
+    "completed:" : "yes/no"
+  }
+  task4 = {
+    "task_name:" : "Password generator",
+    "description:" : "a program that takes in the persons password and stores it, verify it to check if they entered the proper alphabets for the password.",
+    "due date:" : 10/07/2024,
+    "completed:" : "yes/no"
+  }
+  task5 = {
+    "task_name:" : "Compound interest",
+    "description:" : "a program that takes in a persons initial amount, interest for a month(5%), how long they want to invest the money, the amount they will put in the invest per month and print out the ending balance after the calculation.",
+    "due date:" : 11/07/2024,
+    "completed:" : "yes/no"
+  }
+}
+
