@@ -78,6 +78,8 @@ def menu():
 
         if x == "r":
             return login()
+        elif x == "e":
+            return exit
 
         with open("tasks.txt", "r") as file:
             while True:
@@ -92,3 +94,5 @@ if __name__ in '__main__':
         print(login())
     elif x == "2":
         print(sign_up())
+    while sign_up:
+        print(menu())
